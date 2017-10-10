@@ -76,4 +76,6 @@ input::placeholder {
     text-align: center;
 
 }
-
+#result {
+    color:white;
+}
