@@ -1,0 +1,79 @@
+body{
+    background-color: white;
+    background-image: url("https://i.pinimg.com/originals/35/b5/cd/35b5cd83175a5e9fc15c0f5bc7894080.jpg");
+    font-family: Aclonica;
+    background-size: cover;
+}
+
+h1 {
+    color:whitesmoke;
+    text-align: center;
+    font-size: 70px;
+    font: sans-serif;
+    margin-bottom: 10px;
+}
+
+    
+h2 { 
+    text-align: center;
+    font-size: 40px;
+    font-style: sans-serif;
+    color: #FF006F;
+}
+
+h3 {
+    text-align: center;
+    font-size: 25px;
+    color: #FF006F;
+}
+p{font-size :35px;
+font-weight: bold}
+
+button {
+    color:white;
+    background-color: #4CAF50;
+    padding: 10px 24px;
+    text-align: center;
+    display: inline-block;
+    width: 20%;
+    font-size: 16px;
+    border-radius: 8px;
+    font-weight: bold;
+   
+
+}
+button:hover {
+    -webkit-transition-duration: 0.4s; /* Safari */
+    transition-duration: 0.4s;
+    background-color: white; /* Green */
+    color: #4CAF50;
+    border:3px solid #4CAF50;
+
+}
+form { padding-bottom: 20px;
+}
+#trueNumberText {color:#FF99A7;}
+#personalityText { color: pink;}
+
+.wrapper {
+    
+        text-align: center;
+        background-color: rgba(0, 0, 0, 0.5);
+        margin-left: 20%;
+        margin-right: 20%;
+        padding-bottom: 15px;
+        padding-left: 10px;
+        padding-right: 10px;
+}
+input{
+    border:#000;
+    padding: 10px;
+    font-size: 1.2em;
+    width: 50%;
+}
+input::placeholder {
+    color: grey;
+    text-align: center;
+
+}
+
